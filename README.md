@@ -1,6 +1,8 @@
 # vue-movie-player
 
-> A Vue.js project
+> A sample movie player using VueJs and externel API from scotch.io (https://scotch-mvplayer-api.herokuapp.com/api/v1).
+
+This is an example of how to connect to an external API, display data and update the video player based on HTML events using VueJs 2.
 
 ## Build Setup
 
